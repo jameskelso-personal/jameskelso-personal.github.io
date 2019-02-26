@@ -2,7 +2,7 @@ name: James Kelso
 markdown: kramdown
 permalink: :year/:month/:day/:title
 theme: minima
-title: A Blog
-description: by James Kelso
+title: What's the Big Idea?
+#description: by James Kelso
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
