@@ -3,6 +3,6 @@ markdown: kramdown
 permalink: :year/:month/:day/:title
 theme: minima
 title: What's the Big Idea?
-#description: by James Kelso
+description: Understanding the Bible one idea at a time
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
