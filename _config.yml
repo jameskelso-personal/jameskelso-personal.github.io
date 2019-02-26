@@ -1,7 +1,7 @@
 name: James Kelso
 markdown: kramdown
 permalink: :year/:month/:day/:title
-theme: minima
+theme: jekyll-theme-slate
 title: What's the Big Idea?
 description: Understanding the Bible one idea at a time
 show_downloads: false
